@@ -15,5 +15,4 @@ public class GrupoVotacionService implements IGrupoVotacionService{
 	public GrupoVotacion getGrupoVotacion(String id) {
 		return iGrupoVotacion.getGrupoVotacion(id);
 	}
-
 }
